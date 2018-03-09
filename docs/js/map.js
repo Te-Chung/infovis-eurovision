@@ -2,19 +2,19 @@ var currentVotes = [];
 var currentCountryInfo = {};
 var defaultColor = "#acacac";
 var scoreColors = [
-	"#FFF0F0",//0
-	"#FFE6E6",//1
-	"#FFD9D9",//2
-	"#FFCCCC",//3
-	"#FFBFBF",//4
-	"#FFB0B0",//5
-	"#FF9E9E",//6
-	"#FF8787",//7
-	"#FF6B6B",//8
+	"#F0F0FF",//0
+	"#E6E6FF",//1
+	"#D9D9FF",//2
+	"#CCCCFF",//3
+	"#BFBFFF",//4
+	"#B0B0FF",//5
+	"#9E9EFF",//6
+	"#8787FF",//7
+	"#6B6BFF",//8
 	"#purple",//9
-	"#FF4D4D",//10
+	"#4D4DFF",//10
 	"purple",//11
-	"#FF3838"//12
+	"#3838FF"//12
 ];
 var selectedColor = "#2F80ED";
 var selectedCountry = undefined;
