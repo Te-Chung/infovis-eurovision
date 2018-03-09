@@ -1,4 +1,4 @@
-var currentVotes = [];
+ var currentVotes = [];
 var currentCountryInfo = {};
 var defaultColor = "#acacac";
 var scoreColors = [
